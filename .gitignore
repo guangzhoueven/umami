@@ -9,18 +9,6 @@ node_modules
 # testing
 /coverage
 
-# next.js
-/.next/
-/out/
-/prisma/
-/src/generated/
-
-# production
-/build
-/public/script.js
-/geo
-/dist
-
 # misc
 .DS_Store
 .idea
